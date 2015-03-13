@@ -1,0 +1,6 @@
+baseurl = "http://ruprict.github.io/blerg/"
+languageCode = "en-us"
+title = "Ruprict the Monkey Blog"
+[params]
+  description = "Good grief, how long have I been doing this??"
+  DateForm = "Jan 2 2006"
